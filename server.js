@@ -5,6 +5,7 @@ var fs = require('fs');
 var winston = require('winston');
 var connect = require('connect');
 
+process.chdir("/home/panda/work/paste");
 var DocumentHandler = require('./lib/document_handler');
 
 // Load the configuration and set some defaults

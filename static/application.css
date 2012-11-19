@@ -67,7 +67,7 @@ textarea {
 }
 
 #box1 {
-	padding: 5px;
+	padding: 10px;
 	text-align: center;
 	background: #00222b;
 	float: left;
@@ -78,7 +78,7 @@ textarea {
 	-moz-border-radius-bottomleft: 5px;
 	border-bottom-right-radius: 5px;
 	border-bottom-left-radius: 5px;
-	height: 52px;
+	height: 42px;
 }
 
 #box2 {
@@ -90,7 +90,7 @@ textarea {
 #box1 a.logo, #box1 a.logo:visited {
 	display: inline-block;
 	background: url(logo.png);
-	width: 126px;
+	width: 124px;
 	height: 42px;
 }
 
@@ -139,7 +139,7 @@ textarea {
 }
 
 #box3 {
-	padding-left: 157px;
+	padding-left: 167px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
